@@ -1,0 +1,2665 @@
+[
+  {
+    "id": 1,
+    "name": "Selection FOODS MARKET",
+    "type": "スーパー",
+    "lat": 35.6810015,
+    "lng": 139.9118789,
+    "address": "千葉県市川市湊新田1-6-8",
+    "items": [
+      {
+        "name": "おいしい茶豆",
+        "price": 249,
+        "category": "食品",
+        "subcategory": "おつまみ",
+        "last_seen": "20251210"
+      },
+      {
+        "name": "ちくわの磯辺揚げ",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "おつまみ",
+        "last_seen": "20251215"
+      },
+      {
+        "name": "おいしいごはん",
+        "price": 659,
+        "category": "食品",
+        "subcategory": "ごはん",
+        "last_seen": "20251210"
+      },
+      {
+        "name": "宇都宮しそ入餃子",
+        "price": 159,
+        "category": "食品",
+        "subcategory": "加工品",
+        "last_seen": "20260204"
+      },
+      {
+        "name": "宇都宮野菜餃子",
+        "price": 159,
+        "category": "食品",
+        "subcategory": "加工品",
+        "last_seen": "20260207"
+      },
+      {
+        "name": "香薫あらびきソーセージ",
+        "price": 249,
+        "category": "食品",
+        "subcategory": "加工肉",
+        "last_seen": "20260108"
+      },
+      {
+        "name": "ぽんかん",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20260125"
+      },
+      {
+        "name": "サンふじりんごお得",
+        "price": 699,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20260119"
+      },
+      {
+        "name": "次郎柿ばら",
+        "price": 109,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "CGCもずく米黒",
+        "price": 119,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20251204"
+      },
+      {
+        "name": "かつおぶし花かつ",
+        "price": 299,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20251210"
+      },
+      {
+        "name": "食の幸 三陸めかぶx4パック",
+        "price": 249,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "国産紅ショウガ",
+        "price": 129,
+        "category": "食品",
+        "subcategory": "漬物",
+        "last_seen": "20260108"
+      },
+      {
+        "name": "梅ちりめん",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "漬物",
+        "last_seen": "20260119"
+      },
+      {
+        "name": "かみむら牛切り落とし300g",
+        "price": 1000,
+        "category": "食品",
+        "subcategory": "牛肉",
+        "last_seen": "20260108"
+      },
+      {
+        "name": "純しゃり秋田県あきたこまち",
+        "price": 3290,
+        "category": "食品",
+        "subcategory": "米",
+        "last_seen": "20260114"
+      },
+      {
+        "name": "CGCひきわり納豆",
+        "price": 79,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20260123"
+      },
+      {
+        "name": "おかめ納豆",
+        "price": 79,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20251210"
+      },
+      {
+        "name": "おかめ納豆 まろ",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20251210"
+      },
+      {
+        "name": "おかめ納豆 旨味",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20260211"
+      },
+      {
+        "name": "おかめ納豆ひきわり",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "おかめ納豆まろ",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20251211"
+      },
+      {
+        "name": "おかめ納豆旨味ひきわり",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20260128"
+      },
+      {
+        "name": "雪の宿サラダ",
+        "price": 159,
+        "category": "食品",
+        "subcategory": "菓子",
+        "last_seen": "20260204"
+      },
+      {
+        "name": "CGC和風ドレッシング",
+        "price": 169,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260326"
+      },
+      {
+        "name": "つぶれ梅",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260305"
+      },
+      {
+        "name": "ほんだし",
+        "price": 259,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260325"
+      },
+      {
+        "name": "ほんだし60gx2",
+        "price": 259,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260128"
+      },
+      {
+        "name": "イタリアンドレッシング",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "イチビキ赤から鍋",
+        "price": 329,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260201"
+      },
+      {
+        "name": "キッコーマン 醤油",
+        "price": 210,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20251212"
+      },
+      {
+        "name": "ミツカンおいガツオつゆ",
+        "price": 229,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260308"
+      },
+      {
+        "name": "円熟こうじみそ",
+        "price": 319,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260228"
+      },
+      {
+        "name": "国産人参と3種のドレッシング",
+        "price": 169,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260326"
+      },
+      {
+        "name": "国産生みそ500g",
+        "price": 379,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260104"
+      },
+      {
+        "name": "新鮮生絞り醤油",
+        "price": 259,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260216"
+      },
+      {
+        "name": "昆布ポン酢",
+        "price": 169,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260128"
+      },
+      {
+        "name": "特選生しょうが",
+        "price": 110,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260305"
+      },
+      {
+        "name": "鍋キューブ",
+        "price": 259,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "オカメツインパック豆腐 絹",
+        "price": 69,
+        "category": "食品",
+        "subcategory": "豆腐",
+        "last_seen": "20260318"
+      },
+      {
+        "name": "北総豚ももしゃぶ",
+        "price": 410,
+        "category": "食品",
+        "subcategory": "豚肉",
+        "last_seen": "20260201"
+      },
+      {
+        "name": "北総豚バラ薄切り",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "豚肉",
+        "last_seen": "20260314"
+      },
+      {
+        "name": "北総豚ロースうすぎり",
+        "price": 513,
+        "category": "食品",
+        "subcategory": "豚肉",
+        "last_seen": "20260323"
+      },
+      {
+        "name": "北総豚小間切れ",
+        "price": 332,
+        "category": "食品",
+        "subcategory": "豚肉",
+        "last_seen": "20260208"
+      },
+      {
+        "name": "北総豚肩ロース",
+        "price": 378,
+        "category": "食品",
+        "subcategory": "豚肉",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "黒豚小間切れ鹿児島（中）",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "豚肉",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "黒豚小間切れ鹿児島（大）",
+        "price": 599,
+        "category": "食品",
+        "subcategory": "豚肉",
+        "last_seen": "20260308"
+      },
+      {
+        "name": "えのき",
+        "price": 79,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260323"
+      },
+      {
+        "name": "かぼちゃニュージーランド産",
+        "price": 179,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260309"
+      },
+      {
+        "name": "きゃべつカット",
+        "price": 69,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260119"
+      },
+      {
+        "name": "きゅうり3本",
+        "price": 139,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260321"
+      },
+      {
+        "name": "きゅうり袋",
+        "price": 149,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260326"
+      },
+      {
+        "name": "こねぎ",
+        "price": 109,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260314"
+      },
+      {
+        "name": "ごねぎ 特",
+        "price": 129,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251213"
+      },
+      {
+        "name": "さつまいも1本",
+        "price": 159,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260108"
+      },
+      {
+        "name": "じゃがいも",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260125"
+      },
+      {
+        "name": "じゃがいも袋",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260227"
+      },
+      {
+        "name": "そのまま使えるぶなしめじ",
+        "price": 119,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260326"
+      },
+      {
+        "name": "ちぢみほうれん草",
+        "price": 159,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260216"
+      },
+      {
+        "name": "とまとパック",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260326"
+      },
+      {
+        "name": "なす 3本袋",
+        "price": 179,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260104"
+      },
+      {
+        "name": "なす3本",
+        "price": 159,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260314"
+      },
+      {
+        "name": "なす3本袋",
+        "price": 159,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260323"
+      },
+      {
+        "name": "にんじん",
+        "price": 119,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260125"
+      },
+      {
+        "name": "にんじん3本",
+        "price": 139,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260108"
+      },
+      {
+        "name": "にんじんバラ",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251215"
+      },
+      {
+        "name": "にんじん袋",
+        "price": 159,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260208"
+      },
+      {
+        "name": "ぶなしめじ",
+        "price": 119,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260321"
+      },
+      {
+        "name": "ぶなしめじ袋",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260128"
+      },
+      {
+        "name": "ほうれん草",
+        "price": 129,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260325"
+      },
+      {
+        "name": "やわとろねぎ",
+        "price": 139,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260214"
+      },
+      {
+        "name": "アボカド",
+        "price": 159,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260204"
+      },
+      {
+        "name": "カット大根",
+        "price": 79,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260123"
+      },
+      {
+        "name": "カボチャ",
+        "price": 274,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260203"
+      },
+      {
+        "name": "キャベツハーフ",
+        "price": 69,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260108"
+      },
+      {
+        "name": "トマト パック",
+        "price": 439,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260104"
+      },
+      {
+        "name": "ブロッコリー",
+        "price": 129,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260319"
+      },
+      {
+        "name": "ミニトマト",
+        "price": 255,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260226"
+      },
+      {
+        "name": "ミヤザキホウレンソウ",
+        "price": 229,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251219"
+      },
+      {
+        "name": "千葉産 肉厚生しいたけ",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260202"
+      },
+      {
+        "name": "千葉産肉厚生しいたけ",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260326"
+      },
+      {
+        "name": "国産パプリカ",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260321"
+      },
+      {
+        "name": "小松菜",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260204"
+      },
+      {
+        "name": "新じゃがいも袋",
+        "price": 299,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260208"
+      },
+      {
+        "name": "新たまねぎ袋",
+        "price": 279,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260325"
+      },
+      {
+        "name": "新潟産肉厚舞茸",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260202"
+      },
+      {
+        "name": "春菊",
+        "price": 139,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "玉ねぎ袋",
+        "price": 299,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260219"
+      },
+      {
+        "name": "生しいたけ",
+        "price": 129,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260308"
+      },
+      {
+        "name": "生椎茸",
+        "price": 129,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "白菜（カット）",
+        "price": 129,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260123"
+      },
+      {
+        "name": "豆苗",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260319"
+      },
+      {
+        "name": "赤パプリカ",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260325"
+      },
+      {
+        "name": "鍋だっぺ",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "長ねぎ束",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260201"
+      },
+      {
+        "name": "長ネギ",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260308"
+      },
+      {
+        "name": "長ネギ2本",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260128"
+      },
+      {
+        "name": "長ネギ3本",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260217"
+      },
+      {
+        "name": "長ネギばら",
+        "price": 109,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260119"
+      },
+      {
+        "name": "長ネギ束",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260123"
+      },
+      {
+        "name": "おろし生しょうが 特",
+        "price": 88,
+        "category": "食品",
+        "subcategory": "香辛料",
+        "last_seen": "20251210"
+      },
+      {
+        "name": "かつおタタキ",
+        "price": 471,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260214"
+      },
+      {
+        "name": "たこ（ボイル）有",
+        "price": 514,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260204"
+      },
+      {
+        "name": "ばちまぐろ赤身",
+        "price": 739,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260119"
+      },
+      {
+        "name": "ぶり（あら）",
+        "price": 350,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260321"
+      },
+      {
+        "name": "めじまぐろ（生本）",
+        "price": 299,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260326"
+      },
+      {
+        "name": "めじろまぐろ",
+        "price": 350,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260214"
+      },
+      {
+        "name": "サーモンハラス西京焼き",
+        "price": 500,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260208"
+      },
+      {
+        "name": "スケソウダラ",
+        "price": 499,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260305"
+      },
+      {
+        "name": "バナメイエビ",
+        "price": 545,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260210"
+      },
+      {
+        "name": "ベビーホタテ350g",
+        "price": 990,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260214"
+      },
+      {
+        "name": "三陸産　塩銀鮭",
+        "price": 505,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260319"
+      },
+      {
+        "name": "三陸産塩銀鮭",
+        "price": 739,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260325"
+      },
+      {
+        "name": "塩サバx2",
+        "price": 358,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "塩銀鮭 2切",
+        "price": 521,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260203"
+      },
+      {
+        "name": "天然ぶり2切",
+        "price": 603,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260323"
+      },
+      {
+        "name": "生ばちまぐろ",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260314"
+      },
+      {
+        "name": "真あじ開き2枚",
+        "price": 198,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260219"
+      },
+      {
+        "name": "真アジ開き2枚",
+        "price": 198,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260128"
+      },
+      {
+        "name": "金目鯛開き",
+        "price": 599,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260211"
+      },
+      {
+        "name": "韓国産真アジ開き",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260125"
+      },
+      {
+        "name": "骨取り赤魚みりん",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260128"
+      },
+      {
+        "name": "国産若鶏ささみ",
+        "price": 259,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "国産若鶏ささみ（中）",
+        "price": 430,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20260125"
+      },
+      {
+        "name": "国産鶏むね肉",
+        "price": 246,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "若鶏手羽もと(中)",
+        "price": 282,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20260318"
+      },
+      {
+        "name": "若鶏手羽もと(大)",
+        "price": 468,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "若鶏手羽元（中）",
+        "price": 329,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20260325"
+      },
+      {
+        "name": "若鶏手羽元（大）",
+        "price": 384,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20260123"
+      },
+      {
+        "name": "鶏つみれ",
+        "price": 274,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "鶏むね",
+        "price": 433,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20260217"
+      },
+      {
+        "name": "スジャータノムダイズ900ml",
+        "price": 219,
+        "category": "飲料",
+        "subcategory": "豆乳",
+        "last_seen": "20260326"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "くすりの福太郎行徳駅前店",
+    "type": "ドラッグストア",
+    "lat": 35.683451,
+    "lng": 139.914661,
+    "address": "千葉県市川市行徳駅前1-23-1 ハイマート行徳1階",
+    "items": [
+      {
+        "name": "キッチン泡ハイター付け替え400ml",
+        "price": 217,
+        "category": "台所用品",
+        "subcategory": "洗剤",
+        "last_seen": "20260214"
+      },
+      {
+        "name": "バスマジックリン800ml",
+        "price": 284,
+        "category": "日用品",
+        "subcategory": "バス用品",
+        "last_seen": "20260104"
+      },
+      {
+        "name": "アタック詰め替え700g",
+        "price": 399,
+        "category": "日用品",
+        "subcategory": "洗濯洗剤",
+        "last_seen": "20260214"
+      },
+      {
+        "name": "キレイキレイ泡450ml",
+        "price": 317,
+        "category": "日用品",
+        "subcategory": "衛生用品",
+        "last_seen": "20260309"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "まいばすけっと",
+    "type": "スーパー",
+    "lat": 35.68419,
+    "lng": 139.91393,
+    "address": "千葉県市川市行徳駅前1-22-16",
+    "items": [
+      {
+        "name": "三陸カットわかめ（乾燥）",
+        "price": 299,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260116"
+      }
+    ],
+    "note": "座標は行徳駅北店を採用"
+  },
+  {
+    "id": 4,
+    "name": "オーケー 上板橋店",
+    "type": "スーパー",
+    "lat": 35.76164,
+    "lng": 139.672374,
+    "address": "東京都板橋区桜川3-25-4",
+    "items": [
+      {
+        "name": "GUM デンタルブラシ202フツウ",
+        "price": 158,
+        "category": "日用品",
+        "subcategory": "歯ブラシ",
+        "last_seen": "20251025"
+      },
+      {
+        "name": "GUM デンタルブラシ211カタメ",
+        "price": 158,
+        "category": "日用品",
+        "subcategory": "歯ブラシ",
+        "last_seen": "20251025"
+      },
+      {
+        "name": "システマEXハーブ",
+        "price": 278,
+        "category": "日用品",
+        "subcategory": "歯磨き粉",
+        "last_seen": "20251025"
+      },
+      {
+        "name": "ロート メンソレータムDMムコウリョウ",
+        "price": 330,
+        "category": "日用品",
+        "subcategory": "衛生用品",
+        "last_seen": "20251025"
+      },
+      {
+        "name": "サトウ ニイガタコシヒカリ 200g×5",
+        "price": 719,
+        "category": "食品",
+        "subcategory": "ごはん",
+        "last_seen": "20251023"
+      },
+      {
+        "name": "アキタバラエティタマゴ",
+        "price": 256,
+        "category": "食品",
+        "subcategory": "卵",
+        "last_seen": "20251023"
+      },
+      {
+        "name": "タネナシカキ",
+        "price": 78,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20251025"
+      },
+      {
+        "name": "セトウチ　焼き海苔15マイ",
+        "price": 699,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20251023"
+      },
+      {
+        "name": "ミツカン キンノツブ タマゴ ショウユ",
+        "price": 80,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20251025"
+      },
+      {
+        "name": "クロボー クロボウメイモン",
+        "price": 232,
+        "category": "食品",
+        "subcategory": "菓子",
+        "last_seen": "20251023"
+      },
+      {
+        "name": "モリナガ カレトCカカオ70",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "菓子",
+        "last_seen": "20251025"
+      },
+      {
+        "name": "オカメツインパック豆腐 絹",
+        "price": 81,
+        "category": "食品",
+        "subcategory": "豆腐",
+        "last_seen": "20251025"
+      },
+      {
+        "name": "タマネギ",
+        "price": 128,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251023"
+      },
+      {
+        "name": "トマト パック",
+        "price": 398,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251025"
+      },
+      {
+        "name": "ニンジン",
+        "price": 80,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251023"
+      },
+      {
+        "name": "ピーマン",
+        "price": 168,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251023"
+      },
+      {
+        "name": "コクサンワカドリムネニク",
+        "price": 205,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20251023"
+      },
+      {
+        "name": "ポッカ ホッカイドウコーンチャ525",
+        "price": 87,
+        "category": "飲料",
+        "subcategory": "お茶",
+        "last_seen": "20251023"
+      },
+      {
+        "name": "ブレンディムトウ950ml",
+        "price": 151,
+        "category": "飲料",
+        "subcategory": "コーヒー",
+        "last_seen": "20251025"
+      },
+      {
+        "name": "サントリー天然水550ml",
+        "price": 80,
+        "category": "飲料",
+        "subcategory": "水",
+        "last_seen": "20251023"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "オーケー 大谷口店",
+    "type": "スーパー",
+    "lat": 35.751294,
+    "lng": 139.688923,
+    "address": "東京都板橋区大谷口北町37-7",
+    "items": [
+      {
+        "name": "エルヴェールシングル200",
+        "price": 148,
+        "category": "台所用品",
+        "subcategory": "キッチンペーパー",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "3MスコッチタワシSS-72K2コ",
+        "price": 220,
+        "category": "台所用品",
+        "subcategory": "スポンジ",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "キッチン泡ハイター替",
+        "price": 228,
+        "category": "台所用品",
+        "subcategory": "洗剤",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "激落ちくん トイレ洗浄剤",
+        "price": 799,
+        "category": "日用品",
+        "subcategory": "トイレ",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "シンプルバランスローションツメカエ",
+        "price": 455,
+        "category": "日用品",
+        "subcategory": "化粧水",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ハダラボ ゴクジュンプ レミアム",
+        "price": 900,
+        "category": "日用品",
+        "subcategory": "化粧水",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "フロアクイックルドライ40P",
+        "price": 448,
+        "category": "日用品",
+        "subcategory": "掃除",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ヘアジャム エッジ イニュアンス",
+        "price": 672,
+        "category": "日用品",
+        "subcategory": "整髪料",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "システマハグキプラスW",
+        "price": 498,
+        "category": "日用品",
+        "subcategory": "歯磨き粉",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "アタック リセットパワー 一替",
+        "price": 399,
+        "category": "日用品",
+        "subcategory": "洗濯洗剤",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "カネタ チキンジャーキー100g",
+        "price": 499,
+        "category": "食品",
+        "subcategory": "おつまみ",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "シオアジ エダマメ400g",
+        "price": 215,
+        "category": "食品",
+        "subcategory": "おつまみ",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ホッカイドウサンシオアジ エダマメ",
+        "price": 295,
+        "category": "食品",
+        "subcategory": "おつまみ",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ﾘﾌｪｰｼﾞｭﾁｰｽﾞｱｿｰﾄ230g",
+        "price": 982,
+        "category": "食品",
+        "subcategory": "乳製品",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ｻｲｽﾞｲﾛｲﾛｵｽｽﾒﾀﾏｺﾞ10コ",
+        "price": 246,
+        "category": "食品",
+        "subcategory": "卵",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "チラシカイセンバ ラチラシ",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "惣菜",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "タネナシカキ",
+        "price": 118,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "タネナシキョホウパック",
+        "price": 450,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "バナナ",
+        "price": 309,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ホウスイナシ",
+        "price": 335,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "カドヤｽｺﾔｶｺﾞﾏｱﾌﾞﾗﾄﾎﾟ",
+        "price": 345,
+        "category": "食品",
+        "subcategory": "油",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "オトナノゼイタク コイウマモズク",
+        "price": 189,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ゲンエンフジッコ オトクヨウ116g",
+        "price": 407,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ミﾔｷﾞｹﾝｻﾝﾒｶﾌﾞ35g×3p",
+        "price": 198,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "オーケーヒトクセンシソヅケウメボシ",
+        "price": 599,
+        "category": "食品",
+        "subcategory": "漬物",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ミツカン キンノツブ タマゴ ショウユ",
+        "price": 82,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20251018"
+      },
+      {
+        "name": "ミツカン キンﾉップタマゴマゴｼｮｳﾕ",
+        "price": 82,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ホッカイドウカボチャプリン",
+        "price": 167,
+        "category": "食品",
+        "subcategory": "菓子",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ヒノデ コクサン ホシミリン400ml",
+        "price": 225,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "オカメツインパック豆腐 絹",
+        "price": 86,
+        "category": "食品",
+        "subcategory": "豆腐",
+        "last_seen": "20251018"
+      },
+      {
+        "name": "アボカド",
+        "price": 159,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "カボチャ",
+        "price": 130,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "サﾂﾏｲﾓ(ｼﾙｸｽｲｰﾄ)",
+        "price": 298,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ショウガ",
+        "price": 148,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "タマネギ",
+        "price": 118,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ツマゴイコウゲンキャベツ",
+        "price": 64,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ブロッコリー",
+        "price": 298,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ミヤザキケンサン コマツナ200g",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ｵｸﾗ",
+        "price": 98,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ハウｽﾄｸｾﾝﾏｼｮｳｶﾞ40g",
+        "price": 108,
+        "category": "食品",
+        "subcategory": "香辛料",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "シメサバ コブジメ1マイ",
+        "price": 398,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "マイワシヒラキ",
+        "price": 350,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "レイトウギンサケサイキョウヤキ",
+        "price": 598,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "カゴシマ サラダチキンプレーン",
+        "price": 189,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "コクサンワカドリムネニク1マイ",
+        "price": 186,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "フカミバイゼンブラック950ml",
+        "price": 104,
+        "category": "飲料",
+        "subcategory": "コーヒー",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ブレンディムトウ950ml",
+        "price": 122,
+        "category": "飲料",
+        "subcategory": "コーヒー",
+        "last_seen": "20251018"
+      },
+      {
+        "name": "アサミヤ クマノコトウスイ2000ml",
+        "price": 77,
+        "category": "飲料",
+        "subcategory": "水",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "ハルナアズミノテンネンスイ2L",
+        "price": 65,
+        "category": "飲料",
+        "subcategory": "水",
+        "last_seen": "20250907"
+      },
+      {
+        "name": "スジャータノムダイズ900ml",
+        "price": 189,
+        "category": "飲料",
+        "subcategory": "豆乳",
+        "last_seen": "20250907"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "オーケー 銀座",
+    "type": "スーパー",
+    "lat": 35.673737,
+    "lng": 139.765197,
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2内",
+    "items": [
+      {
+        "name": "エルヴェールシングル200",
+        "price": 148,
+        "category": "台所用品",
+        "subcategory": "キッチンペーパー",
+        "last_seen": "20251223"
+      },
+      {
+        "name": "ビオリスコンディショナー",
+        "price": 598,
+        "category": "日用品",
+        "subcategory": "シャンプー",
+        "last_seen": "20251228"
+      },
+      {
+        "name": "ビオリスシャンプー",
+        "price": 598,
+        "category": "日用品",
+        "subcategory": "シャンプー",
+        "last_seen": "20251228"
+      },
+      {
+        "name": "ムシューダ1年クローゼット用3コ",
+        "price": 598,
+        "category": "日用品",
+        "subcategory": "防虫・防カビ",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "エバラプチっと鍋キムチ",
+        "price": 238,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20251208"
+      },
+      {
+        "name": "味の素カルシウムほんだし100g",
+        "price": 308,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20251223"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "オーケー浦安",
+    "type": "スーパー",
+    "lat": 35.652976,
+    "lng": 139.89961,
+    "address": "千葉県浦安市東野1-2-33",
+    "items": [
+      {
+        "name": "エリエールキッチンタオル2コ",
+        "price": 268,
+        "category": "台所用品",
+        "subcategory": "キッチンペーパー",
+        "last_seen": "20260212"
+      },
+      {
+        "name": "エリエールペーパータオル",
+        "price": 208,
+        "category": "台所用品",
+        "subcategory": "キッチンペーパー",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "エルヴェールシングル200",
+        "price": 148,
+        "category": "台所用品",
+        "subcategory": "キッチンペーパー",
+        "last_seen": "20260212"
+      },
+      {
+        "name": "カメヤマキッチンペーパー",
+        "price": 101,
+        "category": "台所用品",
+        "subcategory": "キッチンペーパー",
+        "last_seen": "20260131"
+      },
+      {
+        "name": "NEWクレラップレギュラー",
+        "price": 158,
+        "category": "台所用品",
+        "subcategory": "サランラップ",
+        "last_seen": "20260320"
+      },
+      {
+        "name": "3MスコッチタワシSS-72K2コ",
+        "price": 220,
+        "category": "台所用品",
+        "subcategory": "スポンジ",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "フロッシュブラッドオレンジ300ml",
+        "price": 230,
+        "category": "台所用品",
+        "subcategory": "スポンジ",
+        "last_seen": "20251224"
+      },
+      {
+        "name": "キッチン泡ハイター",
+        "price": 298,
+        "category": "台所用品",
+        "subcategory": "洗剤",
+        "last_seen": "20251224"
+      },
+      {
+        "name": "キッチン泡ハイター替",
+        "price": 178,
+        "category": "台所用品",
+        "subcategory": "洗剤",
+        "last_seen": "20251224"
+      },
+      {
+        "name": "フロッシュブラッドオレンジ詰替",
+        "price": 238,
+        "category": "台所用品",
+        "subcategory": "洗剤",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "ポリ袋Lサイズx30",
+        "price": 152,
+        "category": "日用品",
+        "subcategory": "ゴミ袋",
+        "last_seen": "20251228"
+      },
+      {
+        "name": "ポリ袋Mサイズx30",
+        "price": 152,
+        "category": "日用品",
+        "subcategory": "ゴミ袋",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "ビオリスコンディショナー",
+        "price": 598,
+        "category": "日用品",
+        "subcategory": "シャンプー",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "ビオリスコンディショナー詰め替え",
+        "price": 598,
+        "category": "日用品",
+        "subcategory": "シャンプー",
+        "last_seen": "20260126"
+      },
+      {
+        "name": "ビオリスシャンプー詰め替え",
+        "price": 598,
+        "category": "日用品",
+        "subcategory": "シャンプー",
+        "last_seen": "20260126"
+      },
+      {
+        "name": "エリエール＋Waterソフト10コ",
+        "price": 698,
+        "category": "日用品",
+        "subcategory": "ティッシュ",
+        "last_seen": "20260123"
+      },
+      {
+        "name": "トイレクイックル20枚",
+        "price": 228,
+        "category": "日用品",
+        "subcategory": "トイレ",
+        "last_seen": "20251225"
+      },
+      {
+        "name": "トイレクイックルハーブ20枚",
+        "price": 228,
+        "category": "日用品",
+        "subcategory": "トイレ",
+        "last_seen": "20251225"
+      },
+      {
+        "name": "ダヴボディソープ詰め替え",
+        "price": 378,
+        "category": "日用品",
+        "subcategory": "ボディーソープ",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "シンプルバランスローションツメカエ",
+        "price": 455,
+        "category": "日用品",
+        "subcategory": "化粧水",
+        "last_seen": "20251225"
+      },
+      {
+        "name": "シンプルバランスローション詰め替え",
+        "price": 455,
+        "category": "日用品",
+        "subcategory": "化粧水",
+        "last_seen": "20260301"
+      },
+      {
+        "name": "コロコロ",
+        "price": 345,
+        "category": "日用品",
+        "subcategory": "掃除",
+        "last_seen": "20260219"
+      },
+      {
+        "name": "コロコロ付け替え",
+        "price": 318,
+        "category": "日用品",
+        "subcategory": "掃除",
+        "last_seen": "20260219"
+      },
+      {
+        "name": "GUM デンタルブラシ191カタメ",
+        "price": 138,
+        "category": "日用品",
+        "subcategory": "歯ブラシ",
+        "last_seen": "20251224"
+      },
+      {
+        "name": "GUMデンタルブラシ202",
+        "price": 158,
+        "category": "日用品",
+        "subcategory": "歯ブラシ",
+        "last_seen": "20260301"
+      },
+      {
+        "name": "GUMデンタルブラシ211",
+        "price": 158,
+        "category": "日用品",
+        "subcategory": "歯ブラシ",
+        "last_seen": "20260301"
+      },
+      {
+        "name": "GUMデンタルブラシ407",
+        "price": 158,
+        "category": "日用品",
+        "subcategory": "歯ブラシ",
+        "last_seen": "20260301"
+      },
+      {
+        "name": "ムシューダ1年クローゼット用3コ",
+        "price": 598,
+        "category": "日用品",
+        "subcategory": "防虫剤",
+        "last_seen": "20260219"
+      },
+      {
+        "name": "ニッシンゴログラ300g",
+        "price": 539,
+        "category": "食品",
+        "subcategory": "シリアル",
+        "last_seen": "20260304"
+      },
+      {
+        "name": "トーノーシジミスープ",
+        "price": 180,
+        "category": "食品",
+        "subcategory": "スープ",
+        "last_seen": "20260123"
+      },
+      {
+        "name": "ワカドリタマゴ",
+        "price": 218,
+        "category": "食品",
+        "subcategory": "卵",
+        "last_seen": "20251220"
+      },
+      {
+        "name": "九十九里ミックスタマゴ10コ",
+        "price": 246,
+        "category": "食品",
+        "subcategory": "卵",
+        "last_seen": "20260131"
+      },
+      {
+        "name": "アマオウイチゴ",
+        "price": 498,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20260304"
+      },
+      {
+        "name": "バナナ極撰",
+        "price": 309,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20260301"
+      },
+      {
+        "name": "有田みかん",
+        "price": 398,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20260116"
+      },
+      {
+        "name": "オアシスﾒｶﾌﾞ塩",
+        "price": 317,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260304"
+      },
+      {
+        "name": "オトナノゼイタク コイウマモズク",
+        "price": 189,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260219"
+      },
+      {
+        "name": "ゲンエンフジッコ116g",
+        "price": 407,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20251212"
+      },
+      {
+        "name": "フジッコ純とろ23g",
+        "price": 194,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260116"
+      },
+      {
+        "name": "ミﾔｷﾞｹﾝｻﾝﾒｶﾌﾞ35g×3p",
+        "price": 198,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260120"
+      },
+      {
+        "name": "ヤマトク シオノリ18マイ",
+        "price": 429,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260307"
+      },
+      {
+        "name": "減塩フジッコ116g",
+        "price": 407,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260111"
+      },
+      {
+        "name": "おかめ納豆ひきわり",
+        "price": 101,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20260301"
+      },
+      {
+        "name": "おかめ納豆旨味ひきわり",
+        "price": 110,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20260126"
+      },
+      {
+        "name": "なとり無塩ミックス",
+        "price": 615,
+        "category": "食品",
+        "subcategory": "菓子",
+        "last_seen": "20260219"
+      },
+      {
+        "name": "クロボー クロボウメイモン",
+        "price": 232,
+        "category": "食品",
+        "subcategory": "菓子",
+        "last_seen": "20260320"
+      },
+      {
+        "name": "かどやごま油200g",
+        "price": 294,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260111"
+      },
+      {
+        "name": "ハウス特選生ショウガ",
+        "price": 98,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260120"
+      },
+      {
+        "name": "ヒカリミソ コクサンソザイケンエン",
+        "price": 434,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20251216"
+      },
+      {
+        "name": "フジッコベンリダシ66g",
+        "price": 472,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20251216"
+      },
+      {
+        "name": "ミツカン料理酒1L",
+        "price": 162,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260111"
+      },
+      {
+        "name": "味の素コンソメx21",
+        "price": 219,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260116"
+      },
+      {
+        "name": "本みりん純米600ml",
+        "price": 378,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20260320"
+      },
+      {
+        "name": "オカメツインパック豆腐 絹",
+        "price": 90,
+        "category": "食品",
+        "subcategory": "豆腐",
+        "last_seen": "20260320"
+      },
+      {
+        "name": "鹿児島黒豚モモ",
+        "price": 648,
+        "category": "食品",
+        "subcategory": "豚肉",
+        "last_seen": "20260219"
+      },
+      {
+        "name": "かぼちゃニュージーランド産",
+        "price": 216,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260221"
+      },
+      {
+        "name": "なめこ",
+        "price": 98,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260116"
+      },
+      {
+        "name": "もやし250g",
+        "price": 18,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260111"
+      },
+      {
+        "name": "エノキ",
+        "price": 118,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260111"
+      },
+      {
+        "name": "エノキタケ",
+        "price": 118,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260116"
+      },
+      {
+        "name": "キャベツハーフ",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260126"
+      },
+      {
+        "name": "ブロッコリー",
+        "price": 158,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260301"
+      },
+      {
+        "name": "ホクトブナピー",
+        "price": 98,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260120"
+      },
+      {
+        "name": "ミヤザキケンサン コマツナ200g",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260301"
+      },
+      {
+        "name": "玉ねぎネット",
+        "price": 398,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260120"
+      },
+      {
+        "name": "長芋",
+        "price": 378,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260116"
+      },
+      {
+        "name": "鳴門金時1本",
+        "price": 178,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260120"
+      },
+      {
+        "name": "セトナイカイサンホ シシロクチ100g",
+        "price": 468,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20251215"
+      },
+      {
+        "name": "レイトウギンサケサイキョウヤキ",
+        "price": 598,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20251220"
+      },
+      {
+        "name": "宝幸サバ缶塩",
+        "price": 249,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20251220"
+      },
+      {
+        "name": "宝幸サバ缶水煮",
+        "price": 249,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20251220"
+      },
+      {
+        "name": "解凍岩手銀鮭3匹",
+        "price": 608,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260111"
+      },
+      {
+        "name": "骨取り銀鮭2匹",
+        "price": 458,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260120"
+      },
+      {
+        "name": "カゴシマ サラダチキンプレーン",
+        "price": 204,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20260307"
+      },
+      {
+        "name": "カゴシマサラダチキンプレーン",
+        "price": 204,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20251215"
+      },
+      {
+        "name": "サラダチキン",
+        "price": 204,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20260320"
+      },
+      {
+        "name": "国産若鶏むね肉2枚",
+        "price": 548,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20260116"
+      },
+      {
+        "name": "鶏むね肉",
+        "price": 420,
+        "category": "食品",
+        "subcategory": "鶏肉",
+        "last_seen": "20260221"
+      },
+      {
+        "name": "鹿児島産知覧茶100g",
+        "price": 595,
+        "category": "飲料",
+        "subcategory": "お茶",
+        "last_seen": "20260126"
+      },
+      {
+        "name": "AGFブレンディ マイルド155g",
+        "price": 1027,
+        "category": "飲料",
+        "subcategory": "コーヒー",
+        "last_seen": "20260131"
+      },
+      {
+        "name": "フカミバイゼンブラック950ml",
+        "price": 100,
+        "category": "飲料",
+        "subcategory": "コーヒー",
+        "last_seen": "20260120"
+      },
+      {
+        "name": "ブレンディ155g",
+        "price": 1027,
+        "category": "飲料",
+        "subcategory": "コーヒー",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "そーけんびば天然水500ml",
+        "price": 53,
+        "category": "飲料",
+        "subcategory": "水",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "オイシイミズ",
+        "price": 79,
+        "category": "飲料",
+        "subcategory": "水",
+        "last_seen": "20260304"
+      },
+      {
+        "name": "サントリー天然水550ml",
+        "price": 80,
+        "category": "飲料",
+        "subcategory": "水",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "フジサノテンネンスイ1500ml",
+        "price": 39,
+        "category": "飲料",
+        "subcategory": "水",
+        "last_seen": "20251204"
+      },
+      {
+        "name": "フジサノテンネンスイ500ml",
+        "price": 35,
+        "category": "飲料",
+        "subcategory": "水",
+        "last_seen": "20260131"
+      },
+      {
+        "name": "八海山甘酒825g",
+        "price": 800,
+        "category": "飲料",
+        "subcategory": "甘酒",
+        "last_seen": "20260316"
+      },
+      {
+        "name": "スジャータノムダイズ900ml",
+        "price": 189,
+        "category": "飲料",
+        "subcategory": "豆乳",
+        "last_seen": "20260320"
+      },
+      {
+        "name": "ミツカンりんご酢",
+        "price": 438,
+        "category": "飲料",
+        "subcategory": "酢",
+        "last_seen": "20260221"
+      },
+      {
+        "name": "ミツカンりんご酢1L",
+        "price": 255,
+        "category": "飲料",
+        "subcategory": "酢",
+        "last_seen": "20260307"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "コモディイイダ 東新町店",
+    "type": "スーパー",
+    "lat": 35.754,
+    "lng": 139.683402,
+    "address": "東京都板橋区東新町2-8-15",
+    "items": [
+      {
+        "name": "すくすくバナナ",
+        "price": 258,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20251018"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "ジェーソン欠真間店",
+    "type": "ディスカウントストア",
+    "lat": 35.678741,
+    "lng": 139.900184,
+    "address": "千葉県市川市欠真間1-8-14",
+    "items": [
+      {
+        "name": "バスマジックリン200ml",
+        "price": 199,
+        "category": "日用品",
+        "subcategory": "バス用品",
+        "last_seen": "20260104"
+      },
+      {
+        "name": "システマハグキプラスW",
+        "price": 399,
+        "category": "日用品",
+        "subcategory": "歯磨き粉",
+        "last_seen": "20260227"
+      },
+      {
+        "name": "システムEXくすみクリア",
+        "price": 399,
+        "category": "日用品",
+        "subcategory": "歯磨き粉",
+        "last_seen": "20251222"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "ピカソ南行徳駅前店",
+    "type": "ディスカウントストア",
+    "lat": 35.673118,
+    "lng": 139.90216,
+    "address": "千葉県市川市相之川4-6-10",
+    "items": [
+      {
+        "name": "キッチン泡ハイター替",
+        "price": 248,
+        "category": "台所用品",
+        "subcategory": "洗剤",
+        "last_seen": "20251224"
+      },
+      {
+        "name": "市川市指定ゴミ袋プラスチック",
+        "price": 169,
+        "category": "日用品",
+        "subcategory": "ゴミ袋",
+        "last_seen": "20260306"
+      },
+      {
+        "name": "市川市指定可燃ゴミ袋45L50P",
+        "price": 399,
+        "category": "日用品",
+        "subcategory": "ゴミ袋",
+        "last_seen": "20251215"
+      },
+      {
+        "name": "トイレットペーパーエリエール8ロール",
+        "price": 488,
+        "category": "日用品",
+        "subcategory": "トイレ",
+        "last_seen": "20260120"
+      },
+      {
+        "name": "ダヴボディソープ詰め替え",
+        "price": 378,
+        "category": "日用品",
+        "subcategory": "ボディーソープ",
+        "last_seen": "20251225"
+      },
+      {
+        "name": "フローリングシート",
+        "price": 199,
+        "category": "日用品",
+        "subcategory": "掃除",
+        "last_seen": "20260228"
+      },
+      {
+        "name": "強粘着ロールP",
+        "price": 398,
+        "category": "日用品",
+        "subcategory": "掃除",
+        "last_seen": "20260114"
+      },
+      {
+        "name": "ド情熱糸みがき黒",
+        "price": 199,
+        "category": "日用品",
+        "subcategory": "歯ブラシ",
+        "last_seen": "20251225"
+      },
+      {
+        "name": "システマEXハーブ",
+        "price": 219,
+        "category": "日用品",
+        "subcategory": "歯磨き粉",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "ゲンパルファムムスク",
+        "price": 368,
+        "category": "日用品",
+        "subcategory": "消臭剤",
+        "last_seen": "20260306"
+      },
+      {
+        "name": "除菌ウェットティッシュ3P",
+        "price": 198,
+        "category": "日用品",
+        "subcategory": "衛生用品",
+        "last_seen": "20260228"
+      },
+      {
+        "name": "味付け海苔",
+        "price": 379,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260306"
+      },
+      {
+        "name": "おかめ納豆ひきわり",
+        "price": 98,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20260313"
+      },
+      {
+        "name": "ひきわり納豆ミニ3パック",
+        "price": 98,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20260324"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "マツキヨ",
+    "type": "ドラッグストア",
+    "lat": 35.682132,
+    "lng": 139.914731,
+    "address": "千葉県市川市行徳駅前2-13-1",
+    "items": [
+      {
+        "name": "DPバイタライGC",
+        "price": 1430,
+        "category": "日用品",
+        "subcategory": "化粧品",
+        "last_seen": "20251224"
+      },
+      {
+        "name": "PEインCフォーム",
+        "price": 550,
+        "category": "日用品",
+        "subcategory": "化粧品",
+        "last_seen": "20251224"
+      },
+      {
+        "name": "PEインクレンジング",
+        "price": 770,
+        "category": "日用品",
+        "subcategory": "化粧品",
+        "last_seen": "20251224"
+      },
+      {
+        "name": "メルティーリップハニー",
+        "price": 467,
+        "category": "日用品",
+        "subcategory": "化粧品",
+        "last_seen": "20251228"
+      },
+      {
+        "name": "ニベアリペアEX超",
+        "price": 1760,
+        "category": "日用品",
+        "subcategory": "化粧水",
+        "last_seen": "20251228"
+      },
+      {
+        "name": "バファリンプレミアム",
+        "price": 1188,
+        "category": "薬品",
+        "subcategory": "頭痛薬",
+        "last_seen": "20251215"
+      }
+    ],
+    "note": "座標はマツモトキヨシ行徳駅前店を採用"
+  },
+  {
+    "id": 12,
+    "name": "マルエツ行徳駅前店",
+    "type": "スーパー",
+    "lat": 35.681869,
+    "lng": 139.913347,
+    "address": "千葉県市川市行徳駅前2-15-1",
+    "items": [
+      {
+        "name": "バナナ極撰",
+        "price": 298,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20260108"
+      },
+      {
+        "name": "田辺農園バナナ",
+        "price": 198,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20260201"
+      },
+      {
+        "name": "ミﾔｷﾞｹﾝｻﾝﾒｶﾌﾞ35g×3p",
+        "price": 239,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260321"
+      },
+      {
+        "name": "食の幸 三陸めかぶx4パック",
+        "price": 239,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260128"
+      },
+      {
+        "name": "金のつぶ納豆",
+        "price": 88,
+        "category": "食品",
+        "subcategory": "納豆",
+        "last_seen": "20260210"
+      },
+      {
+        "name": "めかぶ",
+        "price": 239,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260325"
+      },
+      {
+        "name": "バナナ",
+        "price": 299,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20260325"
+      },
+      {
+        "name": "伊藤園ルイボスティー",
+        "price": 349,
+        "category": "飲料",
+        "subcategory": "お茶",
+        "last_seen": "20260214"
+      },
+      {
+        "name": "エクセラ無糖900ml",
+        "price": 128,
+        "category": "飲料",
+        "subcategory": "コーヒー",
+        "last_seen": "20260125"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "東京靴流通センター",
+    "type": "靴店",
+    "lat": 35.684029,
+    "lng": 139.914737,
+    "address": "千葉県市川市行徳駅前1-19-13 T・Oビル1F",
+    "items": [
+      {
+        "name": "革靴塗料",
+        "price": 660,
+        "category": "日用品",
+        "subcategory": "靴",
+        "last_seen": "20260214"
+      }
+    ],
+    "note": "座標は行徳駅前店を採用"
+  },
+  {
+    "id": 14,
+    "name": "西友行徳店",
+    "type": "スーパー",
+    "lat": 35.684055,
+    "lng": 139.915304,
+    "address": "千葉県市川市行徳駅前1-19-1",
+    "items": [
+      {
+        "name": "3連サシェ",
+        "price": 150,
+        "category": "日用品",
+        "subcategory": "シャンプー",
+        "last_seen": "20260221"
+      },
+      {
+        "name": "ビオリスコンディショナー",
+        "price": 729,
+        "category": "日用品",
+        "subcategory": "シャンプー",
+        "last_seen": "20251228"
+      },
+      {
+        "name": "ビオリスシャンプー",
+        "price": 729,
+        "category": "日用品",
+        "subcategory": "シャンプー",
+        "last_seen": "20251228"
+      },
+      {
+        "name": "クロメンボウ",
+        "price": 109,
+        "category": "日用品",
+        "subcategory": "衛生用品",
+        "last_seen": "20251224"
+      },
+      {
+        "name": "みかん",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "果物",
+        "last_seen": "20251217"
+      },
+      {
+        "name": "クキワカメ",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20251212"
+      },
+      {
+        "name": "モズククロズ",
+        "price": 239,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20251217"
+      },
+      {
+        "name": "食の幸 三陸めかぶx4パック",
+        "price": 249,
+        "category": "食品",
+        "subcategory": "海産物",
+        "last_seen": "20260112"
+      },
+      {
+        "name": "ホウジュクウメハチミツ",
+        "price": 399,
+        "category": "食品",
+        "subcategory": "漬物",
+        "last_seen": "20251217"
+      },
+      {
+        "name": "雪の宿サラダ",
+        "price": 119,
+        "category": "食品",
+        "subcategory": "菓子",
+        "last_seen": "20251219"
+      },
+      {
+        "name": "ママ印上白糖",
+        "price": 149,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20251217"
+      },
+      {
+        "name": "料理酒",
+        "price": 149,
+        "category": "食品",
+        "subcategory": "調味料",
+        "last_seen": "20251223"
+      },
+      {
+        "name": "コクサンキヌトウフ",
+        "price": 129,
+        "category": "食品",
+        "subcategory": "豆腐",
+        "last_seen": "20251212"
+      },
+      {
+        "name": "黒豚小間切れ鹿児島（大）",
+        "price": 599,
+        "category": "食品",
+        "subcategory": "豚肉",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "えのき",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251205"
+      },
+      {
+        "name": "きゃべつカット",
+        "price": 89,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251212"
+      },
+      {
+        "name": "なす 3本袋",
+        "price": 179,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251215"
+      },
+      {
+        "name": "新潟産肉厚舞茸",
+        "price": 99,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "玉ねぎ袋",
+        "price": 199,
+        "category": "食品",
+        "subcategory": "野菜",
+        "last_seen": "20251222"
+      },
+      {
+        "name": "サバフィーレ3匹",
+        "price": 599,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260112"
+      },
+      {
+        "name": "銀鮭西京漬け3匹",
+        "price": 499,
+        "category": "食品",
+        "subcategory": "魚",
+        "last_seen": "20260112"
+      },
+      {
+        "name": "フカミバイゼンブラック950ml",
+        "price": 139,
+        "category": "飲料",
+        "subcategory": "コーヒー",
+        "last_seen": "20251204"
+      }
+    ]
+  }
+]
