@@ -31,6 +31,13 @@
         </label>
 
         <label class="field field-mid">
+          <span>サブカテゴリ</span>
+          <select id="subcategorySelect">
+            <option value="">すべて</option>
+          </select>
+        </label>
+
+        <label class="field field-mid">
           <span>店舗タイプ</span>
           <select id="storeTypeSelect">
             <option value="">すべて</option>
@@ -87,7 +94,8 @@
           <h2>使い方</h2>
           <ul>
             <li>商品名は部分一致に加えて、少しゆるめに検索します</li>
-            <li>カテゴリや店舗タイプで絞り込めます</li>
+            <li>カテゴリ・サブカテゴリ・店舗タイプで絞り込めます</li>
+            <li>SUPABASE_URL / SUPABASE_ANON_KEY を設定するとカテゴリ補完を取得します</li>
             <li>並び順は価格・距離・更新日で切り替えられます</li>
             <li>stores.json を差し替えるとデータ更新できます</li>
           </ul>
